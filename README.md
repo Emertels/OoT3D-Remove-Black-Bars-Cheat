@@ -1,11 +1,14 @@
-﻿<div align="center">
+<div align="center">
+
+[![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-PT--BR-009739?style=for-the-badge)](README.md)
+[![English](https://img.shields.io/badge/English-EN-1F4E79?style=for-the-badge)](README.en.md)
 
 # Ocarina of Time 3D — Remover Barras Pretas
 
 **Cheat para remover as tarjas pretas ao mirar e usar itens.**
 
-[![Citra](https://img.shields.io/badge/Citra-Confirmado-2EA44F?style=for-the-badge)](#compatibilidade)
-[![Azahar](https://img.shields.io/badge/Azahar-Confirmado-2EA44F?style=for-the-badge)](#compatibilidade)
+[![Citra](https://img.shields.io/badge/Citra-Confirmado-2EA44F?style=for-the-badge)](#compatibilidade-confirmada-pelo-autor)
+[![Azahar](https://img.shields.io/badge/Azahar-Confirmado-2EA44F?style=for-the-badge)](#compatibilidade-confirmada-pelo-autor)
 [![Release](https://img.shields.io/github/v/release/Emertels/OoT3D-Remove-Black-Bars-Cheat?style=for-the-badge)](https://github.com/Emertels/OoT3D-Remove-Black-Bars-Cheat/releases)
 
 **Contribuição original de Emerson Teles (@Emertels), com o código desenvolvido pelo OpenAI Codex a pedido do autor.**
@@ -62,8 +65,6 @@ O projeto foi organizado e publicado por **Emerson Teles (@Emertels)**. O códig
 ## Sobre Emerson Teles
 
 Desenvolvedor, profissional de automação inteligente, engenharia reversa, tradução técnica e localização PT-BR. Apaixonado pela cultura gamer retrô e moderna, Emerson cria ferramentas, automações e projetos de localização para resolver problemas práticos e ajudar comunidades de usuários.
-
-
 
 ### Outros projetos
 

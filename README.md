@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 # Ocarina of Time 3D — Remover Barras Pretas
 
@@ -63,14 +63,7 @@ O projeto foi organizado e publicado por **Emerson Teles (@Emertels)**. O códig
 
 Desenvolvedor, profissional de automação inteligente, engenharia reversa, tradução técnica e localização PT-BR. Apaixonado pela cultura gamer retrô e moderna, Emerson cria ferramentas, automações e projetos de localização para resolver problemas práticos e ajudar comunidades de usuários.
 
-### Encontre-me
 
-[![Website](https://img.shields.io/badge/Website-emertels.github.io-0070F3?style=for-the-badge&logo=googlechrome&logoColor=white)](https://emertels.github.io)
-[![Discord](https://img.shields.io/badge/Discord-Comunidade%20Oficial-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://emertels.github.io/discord)
-[![YouTube](https://img.shields.io/badge/YouTube-@emersonteles2379-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@emersonteles2379)
-[![Telegram](https://img.shields.io/badge/Telegram-Aplicativos%20Mods-24A1DE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/apksmodsandroid)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-Apoiar%20Projetos-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/emertels)
-[![X](https://img.shields.io/badge/X-@emertels-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/emertels)
 
 ### Outros projetos
 
@@ -88,3 +81,16 @@ Desenvolvedor, profissional de automação inteligente, engenharia reversa, trad
 | **Portal Oficial** | Portal de ferramentas, projetos e canais da comunidade. | [Acessar](https://github.com/Emertels/emertels.github.io) |
 
 [Ver todos os repositórios de Emerson Teles no GitHub](https://github.com/Emertels?tab=repositories)
+
+---
+
+## Encontre-me
+
+### Encontre-me
+
+[![Website](https://img.shields.io/badge/Website-emertels.github.io-0070F3?style=for-the-badge&logo=googlechrome&logoColor=white)](https://emertels.github.io)
+[![Discord](https://img.shields.io/badge/Discord-Comunidade%20Oficial-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://emertels.github.io/discord)
+[![YouTube](https://img.shields.io/badge/YouTube-@emersonteles2379-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@emersonteles2379)
+[![Telegram](https://img.shields.io/badge/Telegram-Aplicativos%20Mods-24A1DE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/apksmodsandroid)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Apoiar%20Projetos-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/emertels)
+[![X](https://img.shields.io/badge/X-@emertels-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/emertels)

@@ -86,8 +86,6 @@ Desenvolvedor, profissional de automação inteligente, engenharia reversa, trad
 
 ## Encontre-me
 
-### Encontre-me
-
 [![Website](https://img.shields.io/badge/Website-emertels.github.io-0070F3?style=for-the-badge&logo=googlechrome&logoColor=white)](https://emertels.github.io)
 [![Discord](https://img.shields.io/badge/Discord-Comunidade%20Oficial-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://emertels.github.io/discord)
 [![YouTube](https://img.shields.io/badge/YouTube-@emersonteles2379-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@emersonteles2379)

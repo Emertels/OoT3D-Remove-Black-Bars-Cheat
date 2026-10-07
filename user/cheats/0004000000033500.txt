@@ -1,0 +1,4 @@
+[Remover Barras Pretas - Mira e Uso de Itens]
+D3000000 00000000
+00330D98 1A00000F
+D2000000 00000000

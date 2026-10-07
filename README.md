@@ -1,11 +1,13 @@
-<div align="center">
+﻿<div align="center">
 
-[![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-PT--BR-009739?style=for-the-badge)](README.md)
-[![English](https://img.shields.io/badge/English-EN-1F4E79?style=for-the-badge)](README.en.md)
+
 
 # Ocarina of Time 3D — Remover Barras Pretas
 
 **Cheat para remover as tarjas pretas ao mirar e usar itens.**
+
+[![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-PT--BR-009739?style=for-the-badge)](README.md)
+[![English](https://img.shields.io/badge/English-EN-1F4E79?style=for-the-badge)](README.en.md)
 
 [![Citra](https://img.shields.io/badge/Citra-Confirmado-2EA44F?style=for-the-badge)](#compatibilidade-confirmada-pelo-autor)
 [![Azahar](https://img.shields.io/badge/Azahar-Confirmado-2EA44F?style=for-the-badge)](#compatibilidade-confirmada-pelo-autor)

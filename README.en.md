@@ -1,11 +1,13 @@
-<div align="center">
+﻿<div align="center">
 
-[![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-PT--BR-009739?style=for-the-badge)](README.md)
-[![English](https://img.shields.io/badge/English-EN-1F4E79?style=for-the-badge)](README.en.md)
+
 
 # Ocarina of Time 3D — Remove Black Bars
 
 **A cheat that removes the black bars while aiming and using items.**
+
+[![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-PT--BR-009739?style=for-the-badge)](README.md)
+[![English](https://img.shields.io/badge/English-EN-1F4E79?style=for-the-badge)](README.en.md)
 
 [![Citra](https://img.shields.io/badge/Citra-Confirmed-2EA44F?style=for-the-badge)](#author-confirmed-compatibility)
 [![Azahar](https://img.shields.io/badge/Azahar-Confirmed-2EA44F?style=for-the-badge)](#author-confirmed-compatibility)

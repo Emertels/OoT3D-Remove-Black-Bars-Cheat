@@ -64,34 +64,35 @@ This project is maintained and published by **Emerson Teles (@Emertels)**. The c
 
 ---
 
-## About Emerson Teles
+## 👨‍💻 About the Author
 
-Developer focused on intelligent automation, reverse engineering, technical translation, and Brazilian Portuguese localization. A fan of retro and modern gaming, Emerson creates tools, automation, and localization projects to solve practical problems and support user communities.
+Developed and maintained by **Emerson Teles** (known in the community as **Emertels**).
 
-### Other projects
+Technology, computing, gaming, and system maintenance enthusiast dedicated to software localization into Brazilian Portuguese (PT-BR). Developer focused on practical utilities, productivity tools, intelligent PowerShell automation, and complete technical localization solutions that make modern software accessible to Brazilian users.
 
-| Project | Description | Repository |
-| :--- | :--- | :---: |
-| **Silent Hill: Homecoming PT-BR** | Brazilian Portuguese translation and proofreading. | [Visit](https://github.com/Emertels/Silent-Hill-Homecoming-Traducao-PTBR) |
-| **PSBBN Translator** | Automated translation and localization for the PSBBN Definitive Project. | [Visit](https://github.com/Emertels/PSBBN-Translator) |
-| **Emulator Suite** | PowerShell tools for emulators and frontends. | [Visit](https://github.com/Emertels/Suite-Emuladores) |
-| **AI-Chat-Vault** | Backup and recovery of local conversations from AI tools. | [Visit](https://github.com/Emertels/AI-Chat-Vault) |
-| **Microsoft Photos Fix** | Fixes for Quick Launch and wallpapers in the Photos app. | [Visit](https://github.com/Emertels/Microsoft-Photos-Fix) |
-| **Roccat Syn Pro Air Fix** | Audio and stability tools for the headset. | [Visit](https://github.com/Emertels/Roccat-Syn-Pro-Air-Fix) |
-| **Cursor PT-BR Translation** | Cursor AI localization into Brazilian Portuguese. | [Visit](https://github.com/Emertels/Cursor-Traducao-PTBR) |
-| **Google Antigravity PT-BR Translation** | Google Antigravity Desktop localization. | [Visit](https://github.com/Emertels/Antigravity-Traducao-PTBR) |
-| **ZCode PT-BR Translation** | ZCode Desktop localization. | [Visit](https://github.com/Emertels/ZCode-Traducao-PTBR) |
-| **Official Portal** | Portal for tools, projects, and community channels. | [Visit](https://github.com/Emertels/emertels.github.io) |
+### 🛠️ Projects & Contributions
 
-[View all Emerson Teles repositories on GitHub](https://github.com/Emertels?tab=repositories)
+- [AI-Chat-Vault](https://github.com/Emertels/AI-Chat-Vault) — Portable backup and recovery tool for local chat histories across 20+ AI assistants.
+- [Antigravity — PT-BR Translation](https://github.com/Emertels/Antigravity-Traducao-PTBR) — Complete Brazilian Portuguese localization package for Google Antigravity Desktop.
+- [Codex Router — PT-BR Translation](https://github.com/Emertels/CodexRouter-Traducao-PTBR) — Portable translation and localization package for Codex Router Control Center in PT-BR.
+- [Cursor AI — PT-BR Translation](https://github.com/Emertels/Cursor-Traducao-PTBR) — Deep Brazilian Portuguese localization and update suite for Cursor AI.
+- [GPU Tweak III — PT-BR Translation](https://github.com/Emertels/GPU-Tweak-III-Traducao-PTBR) — Full PT-BR translation and automated installer for ASUS GPU Tweak III.
+- [Microsoft Photos Fix](https://github.com/Emertels/Microsoft-Photos-Fix) — Advanced PowerShell & C# solution fixing fast route startup and photo viewing on Windows.
+- [PSBBN-Translator](https://github.com/Emertels/PSBBN-Translator) — Enterprise translation and localization suite for the PS2 PSBBN Definitive Project in 40 languages.
+- [Silent Hill: Homecoming — PT-BR Translation](https://github.com/Emertels/Silent-Hill-Homecoming-Traducao-PTBR) — Complete Brazilian Portuguese translation and revision for PC.
+- [Suite-Emuladores](https://github.com/Emertels/Suite-Emuladores) — Intelligent PowerShell suite for automated downloads and updates of 56 game emulators & frontends on Windows.
+- [ZCode — PT-BR Translation](https://github.com/Emertels/ZCode-Traducao-PTBR) — Full Brazilian Portuguese visual translation and localization for ZCode Desktop.
 
----
+### 🌐 Connect with Me & Official Communities
 
-## Connect with me
+<div align="left">
 
-[![Website](https://img.shields.io/badge/Website-emertels.github.io-0070F3?style=for-the-badge&logo=googlechrome&logoColor=white)](https://emertels.github.io)
-[![Discord](https://img.shields.io/badge/Discord-Official%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://emertels.github.io/discord)
-[![YouTube](https://img.shields.io/badge/YouTube-@emersonteles2379-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@emersonteles2379)
-[![Telegram](https://img.shields.io/badge/Telegram-Apps%20%26%20Mods-24A1DE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/apksmodsandroid)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Projects-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/emertels)
-[![X](https://img.shields.io/badge/X-@emertels-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/emertels)
+[![GitHub](https://img.shields.io/badge/GitHub-Emertels-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emertels)
+[![Website](https://img.shields.io/badge/Website-Emerson_Teles-0070F3?style=for-the-badge&logo=googlechrome&logoColor=white)](https://emertels.github.io)
+[![Discord](https://img.shields.io/badge/Discord-Emertels%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://emertels.github.io/discord)
+[![X / Twitter](https://img.shields.io/badge/X_Twitter-@emertels-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/emertels)
+[![YouTube](https://img.shields.io/badge/YouTube-Emerson_Teles-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@emersonteles2379)
+[![Telegram](https://img.shields.io/badge/Telegram-Aplicativos%20Mods-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/apksmodsandroid)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Project-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/emertels)
+
+</div>

@@ -64,34 +64,35 @@ O projeto foi organizado e publicado por **Emerson Teles (@Emertels)**. O códig
 
 ---
 
-## Sobre Emerson Teles
+## 👨‍💻 Sobre o Autor
 
-Desenvolvedor, profissional de automação inteligente, engenharia reversa, tradução técnica e localização PT-BR. Apaixonado pela cultura gamer retrô e moderna, Emerson cria ferramentas, automações e projetos de localização para resolver problemas práticos e ajudar comunidades de usuários.
+Desenvolvido e mantido por **Emerson Teles** (conhecido na comunidade como **Emertels**).
 
-### Outros projetos
+Entusiasta de tecnologia, informática, jogos, manutenção de sistemas e tradução/localização de softwares para Português do Brasil (PT-BR). Desenvolvedor focado em utilitários práticos, ferramentas de produtividade, automação inteligente em PowerShell e soluções completas de localização técnica que aproximam ferramentas modernas do público brasileiro.
 
-| Projeto | Descrição | Repositório |
-| :--- | :--- | :---: |
-| **Silent Hill: Homecoming PT-BR** | Tradução e revisão em Português do Brasil. | [Acessar](https://github.com/Emertels/Silent-Hill-Homecoming-Traducao-PTBR) |
-| **PSBBN Translator** | Tradução e localização automatizada para o PSBBN Definitive Project. | [Acessar](https://github.com/Emertels/PSBBN-Translator) |
-| **Suíte de Emuladores** | Ferramentas PowerShell para emuladores e frontends. | [Acessar](https://github.com/Emertels/Suite-Emuladores) |
-| **AI-Chat-Vault** | Backup e recuperação de conversas locais de ferramentas de IA. | [Acessar](https://github.com/Emertels/AI-Chat-Vault) |
-| **Microsoft Photos Fix** | Correções para inicialização rápida e papéis de parede no app Fotos. | [Acessar](https://github.com/Emertels/Microsoft-Photos-Fix) |
-| **Roccat Syn Pro Air Fix** | Ferramentas de estabilização e áudio para o headset. | [Acessar](https://github.com/Emertels/Roccat-Syn-Pro-Air-Fix) |
-| **Cursor Tradução PT-BR** | Localização do Cursor AI para Português do Brasil. | [Acessar](https://github.com/Emertels/Cursor-Traducao-PTBR) |
-| **Google Antigravity Tradução PT-BR** | Localização do Google Antigravity Desktop. | [Acessar](https://github.com/Emertels/Antigravity-Traducao-PTBR) |
-| **ZCode Tradução PT-BR** | Localização do ZCode Desktop. | [Acessar](https://github.com/Emertels/ZCode-Traducao-PTBR) |
-| **Portal Oficial** | Portal de ferramentas, projetos e canais da comunidade. | [Acessar](https://github.com/Emertels/emertels.github.io) |
+### 🛠️ Projetos & Contribuições
 
-[Ver todos os repositórios de Emerson Teles no GitHub](https://github.com/Emertels?tab=repositories)
+- [AI-Chat-Vault](https://github.com/Emertels/AI-Chat-Vault) — Backup portátil e recuperação de conversas locais de 20+ ferramentas e assistentes de IA.
+- [Antigravity — Tradução PT-BR](https://github.com/Emertels/Antigravity-Traducao-PTBR) — Localização completa do Google Antigravity Desktop para Português do Brasil.
+- [Codex Router — Tradução PT-BR](https://github.com/Emertels/CodexRouter-Traducao-PTBR) — Pacote de tradução e localização do Codex Router Control Center em PT-BR.
+- [Cursor AI — Tradução PT-BR](https://github.com/Emertels/Cursor-Traducao-PTBR) — Localização completa e profunda do Cursor AI para Português do Brasil.
+- [GPU Tweak III — Tradução PT-BR](https://github.com/Emertels/GPU-Tweak-III-Traducao-PTBR) — Tradução em português brasileiro e instalador automatizado para ASUS GPU Tweak III.
+- [Microsoft Photos Fix](https://github.com/Emertels/Microsoft-Photos-Fix) — Solução definitiva em PowerShell e C# para rota de inicialização rápida e visualização no app Fotos do Windows.
+- [PSBBN-Translator](https://github.com/Emertels/PSBBN-Translator) — Suíte corporativa de tradução e localização para o PSBBN Definitive Project (PlayStation 2) em 40 idiomas.
+- [Silent Hill: Homecoming — Tradução PT-BR](https://github.com/Emertels/Silent-Hill-Homecoming-Traducao-PTBR) — Tradução e revisão completa do jogo para PC em português brasileiro.
+- [Suite-Emuladores](https://github.com/Emertels/Suite-Emuladores) — Suíte inteligente em PowerShell para download e atualização autônoma de 56 emuladores e frontends no Windows.
+- [ZCode — Tradução PT-BR](https://github.com/Emertels/ZCode-Traducao-PTBR) — Tradução e localização completa do ZCode Desktop para Português do Brasil.
 
----
+### 🌐 Conecte-se comigo & Comunidades Oficiais
 
-## Encontre-me
+<div align="left">
 
-[![Website](https://img.shields.io/badge/Website-emertels.github.io-0070F3?style=for-the-badge&logo=googlechrome&logoColor=white)](https://emertels.github.io)
-[![Discord](https://img.shields.io/badge/Discord-Comunidade%20Oficial-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://emertels.github.io/discord)
-[![YouTube](https://img.shields.io/badge/YouTube-@emersonteles2379-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@emersonteles2379)
-[![Telegram](https://img.shields.io/badge/Telegram-Aplicativos%20Mods-24A1DE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/apksmodsandroid)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-Apoiar%20Projetos-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/emertels)
-[![X](https://img.shields.io/badge/X-@emertels-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/emertels)
+[![GitHub](https://img.shields.io/badge/GitHub-Emertels-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emertels)
+[![Website](https://img.shields.io/badge/Website-Emerson_Teles-0070F3?style=for-the-badge&logo=googlechrome&logoColor=white)](https://emertels.github.io)
+[![Discord](https://img.shields.io/badge/Discord-Emertels%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://emertels.github.io/discord)
+[![X / Twitter](https://img.shields.io/badge/X_Twitter-@emertels-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/emertels)
+[![YouTube](https://img.shields.io/badge/YouTube-Emerson_Teles-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@emersonteles2379)
+[![Telegram](https://img.shields.io/badge/Telegram-Aplicativos%20Mods-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/apksmodsandroid)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Apoiar%20Projeto-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/emertels)
+
+</div>
